@@ -21,7 +21,7 @@ The API follows a clean backend architecture using controllers, routes, models, 
 - Update Job Details
 - Delete Job Applications
 ---
-## Search, Filter & Sorting
+## Filter, Search & Sorting
 - Filter jobs by status
 - Search jobs by company name
 - Sort jobs by application date
