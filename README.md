@@ -4,6 +4,7 @@ This project allows users to register, log in securely, manage job applications,
 The API follows a clean backend architecture using controllers, routes, models, middleware, and utility functions to ensure maintainability and scalability.
 
 ---
+
 # Features
 
 ## Authentication & Authorization
@@ -51,7 +52,6 @@ The API follows a clean backend architecture using controllers, routes, models, 
 - Nodemon
 - Postman
 - dotenv
-
 ---
 
 # Project Structure
