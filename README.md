@@ -14,7 +14,7 @@ The API follows a clean backend architecture using controllers, routes, models, 
 - Protected Routes
 - Password Hashing using bcryptjs
 ---
-## Job management
+## Job Management
 - Create Job Applications
 - Get All Jobs
 - Get Single Job
