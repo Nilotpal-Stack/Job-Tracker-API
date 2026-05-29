@@ -107,6 +107,37 @@
             }
           },
           "response": []
+        },
+        {
+          "name": "/me",
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMTdjZGQ3YWM5NzkyNDcyNDY3YzEzNSIsImlhdCI6MTc3OTk0NDkxOSwiZXhwIjoxNzgwNTQ5NzE5fQ.tlxB6WJ3NZhfQEPLiVlrCiK27pcTez7n3fmTi8LlCRc",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "http://localhost:5000/api/auth/me",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "5000",
+              "path": [
+                "api",
+                "auth",
+                "me"
+              ]
+            }
+          },
+          "response": []
         }
       ]
     },
